@@ -1,1 +1,1 @@
-Source code for my personal website (https://wjyoumans.github.io).
+Source code for my personal website https://wjyoumans.github.io.
